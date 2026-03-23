@@ -5,9 +5,9 @@ I am PRINCE2 and Data Analytics certified, currently building my portfolio in Pr
 This space reflects my journey as I learn, build, and apply both project management and data-driven approaches within technical work.
 </p>
 
-## 🔭 Currently working with
+<p><strong>Currently working with</strong></p>
 
-<p align="center">
+<p>
   <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" width="40"/>
   <img src="https://img.icons8.com/?size=100&id=J6KcaRLsTgpZ&format=png&color=000000" width="40"/>
   <img src="https://img.icons8.com/?size=100&id=12599&format=png&color=000000" width="40"/>
@@ -20,9 +20,9 @@ This space reflects my journey as I learn, build, and apply both project managem
   <img src="https://img.icons8.com/?size=100&id=zQjzFjPpT2Ek&format=png&color=000000" width="40"/>
 </p>
 
-## 📚 Knowledge of
+<p><strong>Knowledge of</strong></p>
 
-<p align="center">
+<p>
   <img src="https://img.icons8.com/?size=100&id=19311&format=png&color=000000" width="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/MindView_Logo.png" width="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Diagrams.net_Logo.svg" width="40"/>
@@ -34,22 +34,22 @@ This space reflects my journey as I learn, build, and apply both project managem
   <img src="https://img.icons8.com/?size=100&id=g7UKWvv49CoI&format=png&color=000000" width="40"/>
 </p>
 
-## 🤝 Open to collaborate on
+<p><strong>Open to collaborate on</strong></p>
 
-- Data analytics projects  
-- Business Intelligence dashboards  
-- Project-based work in tech environments  
+<ul>
+  <li>Data analytics projects</li>
+  <li>Business Intelligence dashboards</li>
+  <li>Project-based work in tech environments</li>
+</ul>
 
-## You can also find me on ...
+<p><strong>You can also find me on</strong></p>
 
-## You can also find me on ...
-
-<p align="center">
+<p>
   <a href="https://www.linkedin.com/in/nelma-cavaleiro">
     <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" width="40"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="mailto:nelma_william_@hotmail.com">
-    <img src="https://img.icons8.com/?size=100&id=38159&format=png&color=000000" width="40"/>
+    <img src="https://img.icons8.com/?size=100&id=gfladD7prcwv&format=png&color=000000" width="40"/>
   </a>
 </p>
