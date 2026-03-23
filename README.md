@@ -8,36 +8,39 @@ This space reflects my journey as I learn, build, and apply both project managem
 ## 🔭 Currently working with
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,github,vscode&perline=4" />
+  <img src="https://img.icons8.com/color/48/python.png" width="40"/>
+  <img src="https://img.icons8.com/color/48/mysql-logo.png" width="40"/>
+  <img src="https://img.icons8.com/material-outlined/48/github.png" width="40"/>
+  <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" width="40"/>
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=tableau&perline=1" />
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" width="40"/>
+  <img src="https://img.icons8.com/color/48/power-bi.png" width="40"/>
+  <img src="https://img.icons8.com/color/48/tableau-software.png" width="40"/>
+  <img src="https://img.icons8.com/color/48/microsoft.png" width="40" title="Microsoft Fabric"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi"/>
-  <img src="https://img.shields.io/badge/Microsoft%20Fabric-0078D4?style=flat-square&logo=microsoft"/>
-  <img src="https://img.shields.io/badge/Google%20AI%20Studio-4285F4?style=flat-square&logo=google"/>
-  <img src="https://img.shields.io/badge/Claude-AI-black?style=flat-square"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Google_AI_Studio_icon_%28July_2025%29.svg" width="40"/>
+  <img src="https://img.icons8.com/ios-filled/50/artificial-intelligence.png" width="40" title="Claude"/>
 </p>
+
 
 ## 📚 Knowledge of
 
 <p align="center">
-  <img src="https://img.shields.io/badge/MS%20Project-217346?style=for-the-badge&logo=microsoft&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ProjectLibre-0052CC?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Draw.io-F08705?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Lucidchart-F68B1F?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Miro-FFD02F?style=for-the-badge&logo=miro&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Piktochart-4DB6AC?style=for-the-badge"/>
+  <img src="https://img.icons8.com/color/48/microsoft-project.png" width="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/MindView_Logo.png" width="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Diagrams.net_Logo.svg" width="40"/>
+  <img src="https://img.icons8.com/color/48/miro.png" width="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/07/Piktochart_logo.jpg" width="40"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/SPSS-052FAD?style=for-the-badge&logo=ibm&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NVivo-1A1A1A?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/MindView-FF6F00?style=for-the-badge"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Logo_SPSS.png" width="40"/>
+  <img src="https://img.icons8.com/fluency/48/statistics.png" width="40" title="NVivo"/>
+  <img src="https://img.icons8.com/color/48/powershell.png" width="40"/>
 </p>
 
 ## 🤝 Open to collaborate on
