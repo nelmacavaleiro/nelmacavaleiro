@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I’m Nelma 👋</h1>
 
 <p>
-I am PRINCE2 and Data Analytics certified, currently building my portfolio in Project Management, Business Intelligence, Data Analytics, and AI.<br>
+I am PRINCE2 and Data Analytics certified, currently studying MSc Information Systems Management, and building my portfolio in Project Management, Business Intelligence, Data Analytics, and AI.<br>
 This space reflects my journey as I learn, build, and apply both project management and data-driven approaches within technical work.
 </p>
 
@@ -38,18 +38,13 @@ This space reflects my journey as I learn, build, and apply both project managem
 
 <ul>
   <li>Data analytics projects</li>
-  <li>Business Intelligence dashboards</li>
-  <li>Project-based work in tech environments</li>
+  <li>Business Intelligence and data-driven solutions</li>
+  <li>AI-related projects and applications</li>
+  <li>Project-based work within tech environments</li>
 </ul>
 
 <p><strong>You can also find me on</strong></p>
 
 <p>
-  <a href="https://www.linkedin.com/in/nelma-cavaleiro">
-    <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" width="40"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="mailto:nelma_william_@hotmail.com">
-    <img src="https://img.icons8.com/?size=100&id=gfladD7prcwv&format=png&color=000000" width="40"/>
-  </a>
+<a href="https://www.linkedin.com/in/nelma-cavaleiro"><img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" width="40"/></a><a href="mailto:nelma_william_@hotmail.com"><img src="https://img.icons8.com/?size=100&id=gfladD7prcwv&format=png&color=000000" width="40"/></a>
 </p>
