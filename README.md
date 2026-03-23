@@ -8,28 +8,39 @@ This space reflects my journey as I learn, build, and apply both project managem
 ## 🔭 Currently working with
 
 <p align="center">
-  <img src="https://icons8.com/icon/hGdCwhSHUe6L/pythonhttps://upload.wikimedia.org/wikipedia/commons/c/c5/Google_AI_Studio_icon_%28July_2025%29.svg" width="45"/>
-  <img src="https://icons8.com/icon/QeIg9siFKGgp/mysql" width="45"/>
-  <img src="https://icons8.com/icon/12599/github" width="45"/>
-  <img src="https://icons8.com/icon/9OGIyU8hrxW5/visual-studio-code-2019" width="45"/>
-  <img src="https://icons8.com/icon/13654/microsoft-excel" width="45"/>
-  <img src="https://icons8.com/icon/3sGOUDo9nJ4k/power-bi-2021" width="45"/>
-  <img src="https://icons8.com/icon/9Kvi1p1F0tUo/tableau-software" width="45"/>
-  <img src="https://logos.fandom.com/wiki/Microsoft_Fabric" width="45"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Google_AI_Studio_icon_%28July_2025%29.svg" width="45"/>
+  <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" width="45"/>
+  <img src="https://img.icons8.com/?size=100&id=J6KcaRLsTgpZ&format=png&color=000000" width="45"/>
+  <img src="https://img.icons8.com/?size=100&id=12599&format=png&color=000000" width="45"/>
+  <img src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000" width="45"/>
 </p>
 
+<p align="center">
+  <img src="https://img.icons8.com/?size=100&id=BEMhRoRy403e&format=png&color=000000" width="45"/>
+  <img src="https://img.icons8.com/?size=100&id=qYfwpsRXEcpc&format=png&color=000000" width="45"/>
+  <img src="https://img.icons8.com/?size=100&id=9Kvi1p1F0tUo&format=png&color=000000" width="45"/>
+  <img src="https://debruyn.dev/2024/all-microsoft-fabric-icons-for-diagramming/fabric.png" width="45"/>
+</p>
+
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Google_AI_Studio_icon_%28July_2025%29.svg" width="45"/>
+  <img src="https://img.icons8.com/?size=100&id=zQjzFjPpT2Ek&format=png&color=000000" width="45"/>
+</p>
 
 ## 📚 Knowledge of
 
 <p align="center">
-  <img src="https://commons.wikimedia.org/wiki/File:Microsoft_Office_Project_(2013-2019).svg" width="45"/>
+  <img src="https://img.icons8.com/?size=100&id=19311&format=png&color=000000" width="45"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/MindView_Logo.png" width="45"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Diagrams.net_Logo.svg" width="45"/>
-  <img src="https://icons8.com/icon/g7UKWvv49CoI/microsoft-365" width="45"/>
-  <img src="https://icons8.com/icon/59500/powershell" width="45"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Logo_SPSS.png" width="45"/>
-  <img src="https://commons.wikimedia.org/wiki/File:MindView_Logo.png" width="45"/>
+  <img src="https://img.icons8.com/?size=100&id=MU45yL8cD9cF&format=png&color=000000" width="45"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/07/Piktochart_logo.jpg" width="45"/>
+</p>
+
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Logo_SPSS.png" width="45"/>
+  <img src="https://yt3.googleusercontent.com/yD_6PrSAuGl7lvqsrxLaURJaeku8uWpIGXv63LDLI5Hj8GPszZ6jKApI5vSBGZNqnw6gFlYCNw=s160-c-k-c0x00ffffff-no-rj" width="45"/>
+  <img src="https://img.icons8.com/?size=100&id=59500&format=png&color=000000" width="45"/>
+  <img src="https://img.icons8.com/?size=100&id=g7UKWvv49CoI&format=png&color=000000" width="45"/>
 </p>
 
 ## 🤝 Open to collaborate on
@@ -42,6 +53,6 @@ This space reflects my journey as I learn, build, and apply both project managem
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nelma-cavaleiro">
-    <img src="https://img.shields.io/badge/LinkedIn-Nelma-blue?style=for-the-badge&logo=linkedin"/>
+    <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" width="40"/>
   </a>
-</p>>
+</p>
