@@ -7,33 +7,29 @@ This space reflects my journey as I learn, build, and apply both project managem
 
 ## 🔭 Currently working with
 
-<p>
-  <img src="https://img.icons8.com/color/48/python.png" width="40" title="Python"/>
-  <img src="https://img.icons8.com/color/48/mysql-logo.png" width="40" title="SQL / MySQL"/>
-  <img src="https://img.icons8.com/material-outlined/48/github.png" width="40" title="GitHub"/>
-  <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" width="40" title="VS Code"/>
-
-  <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" width="40" title="Excel"/>
-  <img src="https://img.icons8.com/color/48/power-bi.png" width="40" title="Power BI"/>
-  <img src="https://img.icons8.com/color/48/tableau-software.png" width="40" title="Tableau"/>
-  <img src="https://img.icons8.com/color/48/microsoft.png" width="40" title="Microsoft Fabric"/>
-
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Google_AI_Studio_icon_%28July_2025%29.svg" width="40" title="Google AI Studio"/>
-  <img src="https://img.icons8.com/ios-filled/50/artificial-intelligence.png" width="40" title="Claude AI"/>
+<p align="center">
+  <img src="https://icons8.com/icon/hGdCwhSHUe6L/pythonhttps://upload.wikimedia.org/wikipedia/commons/c/c5/Google_AI_Studio_icon_%28July_2025%29.svg" width="45"/>
+  <img src="https://icons8.com/icon/QeIg9siFKGgp/mysql" width="45"/>
+  <img src="https://icons8.com/icon/12599/github" width="45"/>
+  <img src="https://icons8.com/icon/9OGIyU8hrxW5/visual-studio-code-2019" width="45"/>
+  <img src="https://icons8.com/icon/13654/microsoft-excel" width="45"/>
+  <img src="https://icons8.com/icon/3sGOUDo9nJ4k/power-bi-2021" width="45"/>
+  <img src="https://icons8.com/icon/9Kvi1p1F0tUo/tableau-software" width="45"/>
+  <img src="https://logos.fandom.com/wiki/Microsoft_Fabric" width="45"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Google_AI_Studio_icon_%28July_2025%29.svg" width="45"/>
 </p>
+
 
 ## 📚 Knowledge of
 
-<p>
-  <img src="https://img.icons8.com/color/48/microsoft-project.png" width="40" title="MS Project"/>
-  <img src="https://img.icons8.com/external-flatart-icons-outline-flatarticons/64/project.png" width="40" title="ProjectLibre"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Diagrams.net_Logo.svg" width="40" title="Draw.io"/>
-  <img src="https://img.icons8.com/color/48/miro.png" width="40" title="Miro"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/07/Piktochart_logo.jpg" width="40" title="Piktochart"/>
-
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Logo_SPSS.png" width="40" title="SPSS"/>
-  <img src="https://img.icons8.com/fluency/48/statistics.png" width="40" title="NVivo"/>
-  <img src="https://img.icons8.com/color/48/powershell.png" width="40" title="PowerShell"/>
+<p align="center">
+  <img src="https://commons.wikimedia.org/wiki/File:Microsoft_Office_Project_(2013-2019).svg" width="45"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Diagrams.net_Logo.svg" width="45"/>
+  <img src="https://icons8.com/icon/g7UKWvv49CoI/microsoft-365" width="45"/>
+  <img src="https://icons8.com/icon/59500/powershell" width="45"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Logo_SPSS.png" width="45"/>
+  <img src="https://commons.wikimedia.org/wiki/File:MindView_Logo.png" width="45"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/07/Piktochart_logo.jpg" width="45"/>
 </p>
 
 ## 🤝 Open to collaborate on
