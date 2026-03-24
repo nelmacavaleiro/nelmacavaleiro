@@ -2,7 +2,7 @@
 
 <p>
 I am PRINCE2 and Data Analytics certified, currently studying MSc Information Systems Management, and building my portfolio in Project Management, Business Intelligence, Data Analytics, and AI.<br>
-This space reflects my journey as I learn, build, and apply both project management and data-driven approaches within technical work.
+This space reflects my journey as I learn, build, and apply both project management and data-driven approaches to real-world problems.
 </p>
 
 <p><strong>Currently working with</strong></p>
@@ -40,7 +40,7 @@ This space reflects my journey as I learn, build, and apply both project managem
   <li>Data analytics projects</li>
   <li>Business Intelligence and data-driven solutions</li>
   <li>AI-related projects and applications</li>
-  <li>Project-based work within tech environments</li>
+  <li>Project-based work and collaborative initiatives</li>
 </ul>
 
 <p><strong>You can also find me on</strong></p>
