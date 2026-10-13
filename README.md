@@ -1,8 +1,14 @@
 <h1 align="center">Hi, I’m Nelma 👋</h1>
 
 <p>
-I am PRINCE2 and Data Analytics certified, currently studying MSc Information Systems Management, and building my portfolio in Project Management, Business Intelligence, Data Analytics, and AI.<br>
-This space reflects my journey as I learn, build, and apply both project management and data-driven approaches to real-world problems.
+Business and technology professional based in Manchester, UK, with an MSc in Information Systems Management from the University of Sheffield. I work where business processes meet technology: understanding how work is done, modelling it, and designing and building solutions that improve it.
+
+🌐 **Portfolio:** [nelmacavaleiro.github.io](https://nelmacavaleiro.github.io)
+
+**Currently**
+- Founder and developer of [Nupcial](https://nupcial.app), a live two-sided wedding planning platform
+- Team Lead on an AI Deployment Sprint with Manchester Digital and Manchester Metropolitan University
+
 </p>
 
 <p><strong>Currently working with</strong></p>
@@ -37,10 +43,10 @@ This space reflects my journey as I learn, build, and apply both project managem
 <p><strong>Open to collaborate on</strong></p>
 
 <ul>
-  <li>Data analytics projects</li>
-  <li>Business Intelligence and data-driven solutions</li>
-  <li>AI-related projects and applications</li>
-  <li>Project-based work and collaborative initiatives</li>
+  <li>Systems analysis and solution design</li>
+  <li>Process modelling and automation</li>
+  <li>Data and Business Intelligence</li>
+  <li>AI-enabled applications</li>
 </ul>
 
 <p><strong>You can also find me on</strong></p>
