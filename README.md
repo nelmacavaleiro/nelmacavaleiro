@@ -21,7 +21,7 @@ Business and technology professional based in Manchester, UK, with an MSc in Inf
   <img src="https://img.icons8.com/?size=100&id=BEMhRoRy403e&format=png&color=000000" width="40"/>
   <img src="https://img.icons8.com/?size=100&id=qYfwpsRXEcpc&format=png&color=000000" width="40"/>
   <img src="https://img.icons8.com/?size=100&id=9Kvi1p1F0tUo&format=png&color=000000" width="40"/>
-  <img src="https://icons8.com/icon/FBO05Dys9QCg/chatgpt" width="40"/>
+  <img src="https://img.icons8.com/?size=100&id=FBO05Dys9QCg&format=png&color=000000" width="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Google_AI_Studio_icon_%28July_2025%29.svg" width="40"/>
   <img src="https://img.icons8.com/?size=100&id=zQjzFjPpT2Ek&format=png&color=000000" width="40"/>
 </p>
