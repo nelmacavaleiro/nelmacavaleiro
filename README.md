@@ -18,7 +18,6 @@ Business and technology professional based in Manchester, UK, with an MSc in Inf
 | [AI Deployment Sprint](https://nelmacavaleiro.github.io/case-ai-sprint.html) | Process mapping, requirements and a full-stack, rules-based MVP that cut standard order preparation from about 25 minutes to 12 seconds; the client selected it as its chosen solution |
 | [Nupcial](https://nelmacavaleiro.github.io/case-nupcial.html) | Designing, building and launching a live, two-sided platform |
 
-New projects in business analysis, Power Platform, data and AI will be added here as they are published.
 
 ### Tools I work with
 
