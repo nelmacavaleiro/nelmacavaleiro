@@ -1,56 +1,65 @@
-<h1 align="center">Hi, I’m Nelma 👋</h1>
+<h1 align="center">Hi, I'm Nelma 👋</h1>
 
-<p>
+<p align="center"><strong>Business analysis | Solution design | Data, AI and automation</strong></p>
+
 Business and technology professional based in Manchester, UK, with an MSc in Information Systems Management from the University of Sheffield. I work where business processes meet technology: understanding how work is done, modelling it, and designing and building solutions that improve it.
 
 🌐 **Portfolio:** [nelmacavaleiro.github.io](https://nelmacavaleiro.github.io)
 
-**Currently**
-- Founder and developer of [Nupcial](https://nupcial.app), a live two-sided wedding planning platform
-- Team Lead on an AI Deployment Sprint with Manchester Digital and Manchester Metropolitan University
+### Currently
 
-</p>
+- Founder and developer of [Nupcial](https://nupcial.app), a live, two-sided wedding planning platform for couples and wedding vendors
+- Team Lead on an AI Deployment Sprint with Manchester Digital and Manchester Metropolitan University, funded by Innovate UK
 
-<p><strong>Currently working with</strong></p>
+### Selected work
 
-<p>
-  <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" width="40"/>
-  <img src="https://img.icons8.com/?size=100&id=J6KcaRLsTgpZ&format=png&color=000000" width="40"/>
-  <img src="https://img.icons8.com/?size=100&id=12599&format=png&color=000000" width="40"/>
-  <img src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000" width="40"/>
-  <img src="https://img.icons8.com/?size=100&id=BEMhRoRy403e&format=png&color=000000" width="40"/>
-  <img src="https://img.icons8.com/?size=100&id=qYfwpsRXEcpc&format=png&color=000000" width="40"/>
-  <img src="https://img.icons8.com/?size=100&id=9Kvi1p1F0tUo&format=png&color=000000" width="40"/>
-  <img src="https://img.icons8.com/?size=100&id=FBO05Dys9QCg&format=png&color=000000" width="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Google_AI_Studio_icon_%28July_2025%29.svg" width="40"/>
-  <img src="https://img.icons8.com/?size=100&id=zQjzFjPpT2Ek&format=png&color=000000" width="40"/>
-</p>
+| Project | What it shows |
+|---|---|
+| [AI Deployment Sprint](https://nelmacavaleiro.github.io/case-ai-sprint.html) | Process mapping, requirements and a full-stack, rules-based MVP that cut standard order preparation from about 25 minutes to 12 seconds; the client selected it as its chosen solution |
+| [Nupcial](https://nelmacavaleiro.github.io/case-nupcial.html) | Designing, building and launching a live, two-sided platform |
+| [Project:Hack27](https://nelmacavaleiro.github.io/case-hack27.html) | Data analysis and a Random Forest model on supplier forecast data, as Team Lead at a project data hackathon |
 
-<p><strong>Knowledge of</strong></p>
+New projects in business analysis, Power Platform, data and AI will be added here as they are published.
 
-<p>
-  <img src="https://img.icons8.com/?size=100&id=19311&format=png&color=000000" width="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/MindView_Logo.png" width="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Diagrams.net_Logo.svg" width="40"/>
-  <img src="https://img.icons8.com/?size=100&id=MU45yL8cD9cF&format=png&color=000000" width="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/07/Piktochart_logo.jpg" width="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Logo_SPSS.png" width="40"/>
-  <img src="https://yt3.googleusercontent.com/yD_6PrSAuGl7lvqsrxLaURJaeku8uWpIGXv63LDLI5Hj8GPszZ6jKApI5vSBGZNqnw6gFlYCNw=s160-c-k-c0x00ffffff-no-rj" width="40"/>
-  <img src="https://img.icons8.com/?size=100&id=59500&format=png&color=000000" width="40"/>
-  <img src="https://img.icons8.com/?size=100&id=g7UKWvv49CoI&format=png&color=000000" width="40"/>
-</p>
+### Tools I work with
 
-<p><strong>Open to collaborate on</strong></p>
+**Analysis and design**
+![BPMN](https://img.shields.io/badge/BPMN-4A2650?style=flat-square)
+![Lucidchart](https://img.shields.io/badge/Lucidchart-4A2650?style=flat-square&logo=lucid&logoColor=white)
+![draw.io](https://img.shields.io/badge/draw.io-4A2650?style=flat-square&logo=diagramsdotnet&logoColor=white)
+![Miro](https://img.shields.io/badge/Miro-4A2650?style=flat-square&logo=miro&logoColor=white)
 
-<ul>
-  <li>Systems analysis and solution design</li>
-  <li>Process modelling and automation</li>
-  <li>Data and Business Intelligence</li>
-  <li>AI-enabled applications</li>
-</ul>
+**Data and BI**
+![Power BI](https://img.shields.io/badge/Power_BI-4A2650?style=flat-square)
+![Excel](https://img.shields.io/badge/Excel-4A2650?style=flat-square)
+![SQL](https://img.shields.io/badge/SQL-4A2650?style=flat-square)
+![Python](https://img.shields.io/badge/Python-4A2650?style=flat-square&logo=python&logoColor=white)
 
-<p><strong>You can also find me on</strong></p>
+**Development**
+![React](https://img.shields.io/badge/React-4A2650?style=flat-square&logo=react&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-4A2650?style=flat-square&logo=vite&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-4A2650?style=flat-square&logo=supabase&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-4A2650?style=flat-square&logo=flask&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-4A2650?style=flat-square&logo=sqlite&logoColor=white)
+![Stripe Connect](https://img.shields.io/badge/Stripe_Connect-4A2650?style=flat-square&logo=stripe&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-4A2650?style=flat-square&logo=claude&logoColor=white)
 
-<p>
-<a href="https://www.linkedin.com/in/nelma-cavaleiro"><img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" width="40"/></a><a href="mailto:nelma_william_@hotmail.com"><img src="https://img.icons8.com/?size=100&id=gfladD7prcwv&format=png&color=000000" width="40"/></a>
-</p>
+**Version control and quality**
+![Git](https://img.shields.io/badge/Git-4A2650?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-4A2650?style=flat-square&logo=github&logoColor=white)
+![pytest](https://img.shields.io/badge/pytest-4A2650?style=flat-square&logo=pytest&logoColor=white)
+![ruff](https://img.shields.io/badge/ruff-4A2650?style=flat-square&logo=ruff&logoColor=white)
+![mypy](https://img.shields.io/badge/mypy-4A2650?style=flat-square)
+
+### Open to collaborate on
+
+- Business and systems analysis
+- Solution design
+- Process modelling and automation
+- Data, business intelligence and AI-enabled applications
+
+### Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-4A2650?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nelma-cavaleiro)
+[![Email](https://img.shields.io/badge/Email-4A2650?style=flat-square)](mailto:nelma_william_@hotmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-B76E79?style=flat-square)](https://nelmacavaleiro.github.io)
