@@ -2,7 +2,7 @@
 
 <p align="center"><strong>Business analysis | Solution design | Data, AI and automation</strong></p>
 
-Business and technology professional based in Manchester, UK, with an MSc in Information Systems Management from the University of Sheffield. I work where business processes meet technology: understanding how work is done, modelling it, and designing and building solutions that improve it.
+Business and technology professional who designs and builds practical solutions, with a background in coordinating international operations. Experienced in analysing business processes, defining requirements and delivering solutions ranging from operational tools and workflow standards to full-stack software products and automation.
 
 🌐 **Portfolio:** [nelmacavaleiro.github.io](https://nelmacavaleiro.github.io)
 
